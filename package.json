@@ -1,12 +1,12 @@
 {
   "name": "daybr-timezone",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lib js of timezone created for to help brazilian developers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "start:dev-api": "nodemon ./app/api/index.js",
+    "start:dev-api": "nodemon ./index.js",
     "deploy": "npm publish && git push"
   },
   "author": "dio.dev",
@@ -14,6 +14,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
   },
   "devDependencies": {
