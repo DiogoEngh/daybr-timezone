@@ -1,0 +1,13 @@
+{
+  "name": "daybr-timezone",
+  "version": "1.0.1",
+  "description": "a lib of day control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "deploy": "npm publish"
+  },
+  "author": "dio.dev",
+  "license": "ISC"
+}
