@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "start:dev-api": "nodemon ./index.js",
-    "deploy": "npm publish && git push",
-    "build": "npm run build"
+    "deploy": "npm publish && git push"
   },
   "author": "dio.dev",
   "license": "ISC",
