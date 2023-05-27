@@ -1,6 +1,6 @@
 {
   "name": "daybr-timezone",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A lib js of timezone created for to help brazilian developers",
   "main": "index.js",
   "scripts": {
