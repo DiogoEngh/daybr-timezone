@@ -1,12 +1,12 @@
 {
   "name": "daybr-timezone",
-  "version": "1.0.1",
-  "description": "a lib of day control",
+  "version": "1.0.2",
+  "description": "A lib js of timezone created for to help brazilian developers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "deploy": "npm publish"
+    "deploy": "npm publish && git push"
   },
   "author": "dio.dev",
   "license": "ISC"
