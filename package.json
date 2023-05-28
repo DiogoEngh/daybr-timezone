@@ -10,7 +10,8 @@
     "deploy": "npm publish && git push",
     "update": "npm install",
     "add": "git add .",
-    "commit": "git commit -m 'update/adc de website'"
+    "commit": "git commit -m 'update/adc-de-website'",
+    "auto": "npm run update && npm run add && npm run commit && npm run deploy"
   },
   "author": "dio.dev",
   "license": "ISC",
