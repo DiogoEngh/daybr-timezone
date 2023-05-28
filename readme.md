@@ -21,7 +21,7 @@
 
 ## Documentation
 
-For full documentation, visit [daybr-timezone.com](https://daybr-timezone.com/).
+For full documentation, visit [https://daybr-timezone-front.vercel.app](https://daybr-timezone-front.vercel.app/).
 
 ## Instalation
 

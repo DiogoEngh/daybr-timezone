@@ -1,13 +1,16 @@
 {
   "name": "daybr-timezone",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A lib js of timezone created for to help brazilian developers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./app/index.js",
     "dev": "nodemon ./app/index.js",
-    "deploy": "npm publish && git push"
+    "deploy": "npm publish && git push",
+    "update": "npm install",
+    "add": "git add .",
+    "commit": "git commit -m 'update/adc de website'"
   },
   "author": "dio.dev",
   "license": "ISC",
